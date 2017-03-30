@@ -1,0 +1,42 @@
+{
+  "project_type": "javascript",
+  "debugMode": 1,
+  "showFPS": false,
+  "frameRate": 30,
+  "noCache": false,
+  "id": "gameCanvas",
+  "renderMode": 0,
+  "engineDir": "frameworks/cocos2d-html5",
+  "modules": [
+    "cocos2d",
+    "extensions",
+    "external"
+  ],
+  "jsList": [
+    "src/resource.js",
+    "src/core/sysUtils.js",
+    "src/app.js",
+    "src/core/DataModule.js",
+    "src/core/uiModule.js",
+    "src/core/uiMessage.js",
+    "src/core/mathUtils.js",
+    "src/core/fontAdapter.js",
+    "src/core/base/uiBaseLayer.js",
+    "src/core/base/uiBaseDialog.js",
+    "src/core/base/uiBaseModal.js",
+    "src/core/base/uiBaseInfo.js",
+    "src/core/base/uiBackGround.js",
+    "src/core/base/uiMsgLayer.js",
+    "src/core/base/uiScrollBase.js",
+    "src/core/anim/animModule.js",
+    "src/modules/cbag/uiStatementLayer.js",
+    "src/modules/cbag/cBagModule.js",
+    "src/modules/cbag/cDropModule.js",
+    "src/modules/uiVideoList.js",
+    "src/modules/mall/uiCoinMall.js",
+    "src/tinygame/tgBaseGame.js",
+    "src/tinygame/gameStartLayer.js",
+    "src/tinygame/gameOverLayer.js",
+    "src/tinygame/tgXiaoXiaoLe.js"
+  ]
+}

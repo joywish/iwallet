@@ -1,0 +1,1534 @@
+{
+  "ID": "43abec33-0273-4368-88c7-850192e22590",
+  "Version": "2.3.4",
+  "Name": "cStatementLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 43,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 192,
+            "ActionTag": 830786415,
+            "Size": {
+              "X": 750.0,
+              "Y": 1334.0
+            },
+            "Name": "pnl_bg",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "source/game01/game1p01_shengli.png",
+              "Plist": ""
+            },
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": 136,
+            "Scale9OriginY": 32,
+            "Scale9Width": 141,
+            "Scale9Height": 35,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 169.95,
+              "Y": 1008.1802
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2266,
+              "Y": 0.7558
+            },
+            "PreSize": {
+              "X": 0.5493,
+              "Y": 0.078
+            },
+            "HorizontalEdge": "BothEdge",
+            "VerticalEdge": "TopEdge",
+            "LeftMargin": 169.95,
+            "RightMargin": 168.05,
+            "TopMargin": 221.8198,
+            "BottomMargin": 1008.1802,
+            "Tag": 45,
+            "ActionTag": -1248284871,
+            "Size": {
+              "X": 412.0,
+              "Y": 104.0
+            },
+            "Name": "pnl_vitory",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 276.0,
+              "Y": 932.0171
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.368,
+              "Y": 0.6987
+            },
+            "PreSize": {
+              "X": 0.2667,
+              "Y": 0.054
+            },
+            "HorizontalEdge": "BothEdge",
+            "VerticalEdge": "TopEdge",
+            "LeftMargin": 276.0,
+            "RightMargin": 274.0,
+            "TopMargin": 329.9829,
+            "BottomMargin": 932.0171,
+            "Tag": 46,
+            "Children": [
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "source/common/xtb_xingxingshiti.png",
+                  "Plist": ""
+                },
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Enable": true,
+                "Scale9Width": 46,
+                "Scale9Height": 46,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 70.78,
+                  "Y": 6.5232
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3539,
+                  "Y": 0.0906
+                },
+                "PreSize": {
+                  "X": 0.3,
+                  "Y": 0.8333
+                },
+                "HorizontalEdge": "BothEdge",
+                "VerticalEdge": "BothEdge",
+                "LeftMargin": 70.78,
+                "RightMargin": 69.22,
+                "TopMargin": 5.4768,
+                "BottomMargin": 6.5232,
+                "Tag": 48,
+                "ActionTag": -152499213,
+                "Size": {
+                  "X": 60.0,
+                  "Y": 60.0
+                },
+                "Name": "pnl_star_mid",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "source/common/xtb_xingxingshiti.png",
+                  "Plist": ""
+                },
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 46,
+                "Scale9Height": 46,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 15.3052,
+                  "Y": 16.524
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0765,
+                  "Y": 0.2295
+                },
+                "PreSize": {
+                  "X": 0.2,
+                  "Y": 0.5556
+                },
+                "HorizontalEdge": "LeftEdge",
+                "VerticalEdge": "BothEdge",
+                "LeftMargin": 15.3052,
+                "RightMargin": 144.6948,
+                "TopMargin": 15.476,
+                "BottomMargin": 16.524,
+                "Tag": 49,
+                "ActionTag": -21111118,
+                "Size": {
+                  "X": 40.0,
+                  "Y": 40.0
+                },
+                "Name": "pnl_star_left",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "source/common/xtb_xingxingshiti.png",
+                  "Plist": ""
+                },
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 46,
+                "Scale9Height": 46,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 146.2666,
+                  "Y": 16.524
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7313,
+                  "Y": 0.2295
+                },
+                "PreSize": {
+                  "X": 0.2,
+                  "Y": 0.5556
+                },
+                "HorizontalEdge": "RightEdge",
+                "VerticalEdge": "BothEdge",
+                "LeftMargin": 146.2666,
+                "RightMargin": 13.7334,
+                "TopMargin": 15.476,
+                "BottomMargin": 16.524,
+                "Tag": 50,
+                "ActionTag": 1315993128,
+                "Size": {
+                  "X": 40.0,
+                  "Y": 40.0
+                },
+                "Name": "pnl_star_right",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": 390719505,
+            "Size": {
+              "X": 200.0,
+              "Y": 72.0
+            },
+            "Name": "pnl_star",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "IsBounceEnabled": true,
+            "InnerNodeSize": {
+              "Width": 310,
+              "Height": 152
+            },
+            "ScrollDirectionType": "Vertical",
+            "ClipAble": true,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "G": 150,
+              "B": 100
+            },
+            "FirstColor": {
+              "G": 150,
+              "B": 100
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 220.9835,
+              "Y": 927.8542
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2946,
+              "Y": 0.6955
+            },
+            "PreSize": {
+              "X": 0.4133,
+              "Y": 0.1139
+            },
+            "LeftMargin": 220.9835,
+            "RightMargin": 219.0165,
+            "TopMargin": 406.1458,
+            "BottomMargin": 775.8542,
+            "Tag": 176,
+            "Children": [
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 152.4547
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 1.003
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 0.3289
+                },
+                "TopMargin": -0.4547,
+                "BottomMargin": 102.4547,
+                "Tag": 181,
+                "Children": [
+                  {
+                    "ClipAble": false,
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "source/common/dikuang09_10_10_0_0.png",
+                      "Plist": ""
+                    },
+                    "SingleColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "FirstColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "EndColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ColorVector": {
+                      "ScaleX": 1.0
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 13,
+                    "Scale9Width": 10,
+                    "Scale9Height": 36,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 63.364,
+                      "Y": 17.82
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2044,
+                      "Y": 0.3564
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PreSize": {
+                      "X": 0.59,
+                      "Y": 0.68
+                    },
+                    "HorizontalEdge": "BothEdge",
+                    "VerticalEdge": "BothEdge",
+                    "LeftMargin": 63.364,
+                    "RightMargin": 63.736,
+                    "TopMargin": 15.18,
+                    "BottomMargin": 0.82,
+                    "Tag": 182,
+                    "Children": [
+                      {
+                        "ClipAble": false,
+                        "BackColorAlpha": 102,
+                        "SingleColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 44.7373,
+                          "Y": 29.7985
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.2446,
+                          "Y": 0.8764
+                        },
+                        "PreSize": {
+                          "X": 0.6834,
+                          "Y": 0.5294
+                        },
+                        "HorizontalEdge": "BothEdge",
+                        "VerticalEdge": "TopEdge",
+                        "LeftMargin": 44.7373,
+                        "RightMargin": 13.1627,
+                        "TopMargin": -13.7985,
+                        "BottomMargin": 29.7985,
+                        "Tag": 408,
+                        "ActionTag": 1151703384,
+                        "Size": {
+                          "X": 125.0,
+                          "Y": 18.0
+                        },
+                        "Name": "pnl_title_bg",
+                        "ctype": "PanelObjectData"
+                      },
+                      {
+                        "ClipAble": false,
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "source/common/xiaotubiao_tili.png",
+                          "Plist": ""
+                        },
+                        "SingleColor": {
+                          "R": 0,
+                          "G": 0,
+                          "B": 0
+                        },
+                        "FirstColor": {
+                          "R": 0,
+                          "G": 0,
+                          "B": 0
+                        },
+                        "EndColor": {
+                          "R": 0,
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ColorVector": {
+                          "ScaleX": 1.0
+                        },
+                        "Scale9OriginX": 12,
+                        "Scale9OriginY": 12,
+                        "Scale9Width": 13,
+                        "Scale9Height": 14,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 17.9995,
+                          "Y": 16.9966
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0984,
+                          "Y": 0.4999
+                        },
+                        "PreSize": {
+                          "X": 0.2023,
+                          "Y": 1.0882
+                        },
+                        "HorizontalEdge": "LeftEdge",
+                        "VerticalEdge": "BothEdge",
+                        "LeftMargin": -0.5005,
+                        "RightMargin": 146.4005,
+                        "TopMargin": -1.4966,
+                        "BottomMargin": -1.5034,
+                        "Tag": 184,
+                        "ActionTag": -328111713,
+                        "Size": {
+                          "X": 37.0,
+                          "Y": 37.0
+                        },
+                        "Name": "img_icon",
+                        "ctype": "PanelObjectData"
+                      },
+                      {
+                        "ClipAble": false,
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "source/common/anniu01.png",
+                          "Plist": ""
+                        },
+                        "SingleColor": {
+                          "R": 0,
+                          "G": 0,
+                          "B": 0
+                        },
+                        "FirstColor": {
+                          "R": 0,
+                          "G": 0,
+                          "B": 0
+                        },
+                        "EndColor": {
+                          "R": 0,
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ColorVector": {
+                          "ScaleX": 1.0
+                        },
+                        "Scale9OriginX": 12,
+                        "Scale9OriginY": 12,
+                        "Scale9Width": 13,
+                        "Scale9Height": 13,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 164.8658,
+                          "Y": 16.9014
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.9014,
+                          "Y": 0.4971
+                        },
+                        "PreSize": {
+                          "X": 0.2023,
+                          "Y": 1.1176
+                        },
+                        "HorizontalEdge": "RightEdge",
+                        "VerticalEdge": "BothEdge",
+                        "LeftMargin": 146.3658,
+                        "RightMargin": -0.4658,
+                        "TopMargin": -1.9014,
+                        "BottomMargin": -2.0986,
+                        "Tag": 185,
+                        "ActionTag": 596357655,
+                        "Size": {
+                          "X": 37.0,
+                          "Y": 38.0
+                        },
+                        "VisibleForFrame": false,
+                        "Name": "img_add",
+                        "ctype": "PanelObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 16,
+                        "LabelText": "金币",
+                        "FontResource": {
+                          "Type": "Default",
+                          "Path": "",
+                          "Plist": ""
+                        },
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 0,
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "ShadowEnabled": true,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 44.7373,
+                          "Y": 38.8348
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.2446,
+                          "Y": 1.1422
+                        },
+                        "PreSize": {
+                          "X": 0.6834,
+                          "Y": 0.5294
+                        },
+                        "HorizontalEdge": "BothEdge",
+                        "VerticalEdge": "BothEdge",
+                        "LeftMargin": 44.7373,
+                        "RightMargin": 13.1627,
+                        "TopMargin": -13.8348,
+                        "BottomMargin": 29.8348,
+                        "Tag": 228,
+                        "ActionTag": 1142129922,
+                        "Size": {
+                          "X": 125.0,
+                          "Y": 18.0
+                        },
+                        "Name": "txt_name",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 22,
+                        "LabelText": "250",
+                        "FontResource": {
+                          "Type": "Default",
+                          "Path": "",
+                          "Plist": ""
+                        },
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 0,
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowOffsetX": 2.5,
+                        "ShadowOffsetY": -2.5,
+                        "ShadowEnabled": true,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 44.7373,
+                          "Y": 15.5108
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "B": 153
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.2446,
+                          "Y": 0.4562
+                        },
+                        "PreSize": {
+                          "X": 0.6834,
+                          "Y": 0.8235
+                        },
+                        "HorizontalEdge": "BothEdge",
+                        "VerticalEdge": "BothEdge",
+                        "LeftMargin": 44.7373,
+                        "RightMargin": 13.1627,
+                        "TopMargin": 4.4892,
+                        "BottomMargin": 1.5108,
+                        "Tag": 183,
+                        "ActionTag": -362521502,
+                        "Size": {
+                          "X": 125.0,
+                          "Y": 28.0
+                        },
+                        "Name": "txt_num",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -721288336,
+                    "Size": {
+                      "X": 182.9,
+                      "Y": 34.0
+                    },
+                    "Name": "img_tpl",
+                    "ctype": "PanelObjectData"
+                  }
+                ],
+                "ActionTag": 1822851684,
+                "Size": {
+                  "X": 310.0,
+                  "Y": 50.0
+                },
+                "Name": "pnl_tpl",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": -2114097458,
+            "Size": {
+              "X": 310.0,
+              "Y": 152.0
+            },
+            "Name": "sv_main",
+            "ctype": "ScrollViewObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 217.5,
+              "Y": 722.6912
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.29,
+              "Y": 0.5417
+            },
+            "PreSize": {
+              "X": 0.4227,
+              "Y": 0.03
+            },
+            "HorizontalEdge": "BothEdge",
+            "VerticalEdge": "TopEdge",
+            "LeftMargin": 217.5,
+            "RightMargin": 215.5,
+            "TopMargin": 571.3088,
+            "BottomMargin": 722.6912,
+            "Tag": 186,
+            "Children": [
+              {
+                "FontSize": 20,
+                "LabelText": "道具奖励",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 156.9784,
+                  "Y": 19.084
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4952,
+                  "Y": 0.4771
+                },
+                "PreSize": {
+                  "X": 0.2524,
+                  "Y": 0.5
+                },
+                "HorizontalEdge": "BothEdge",
+                "VerticalEdge": "BothEdge",
+                "LeftMargin": 116.9784,
+                "RightMargin": 120.0216,
+                "TopMargin": 10.916,
+                "BottomMargin": 9.084,
+                "Tag": 190,
+                "ActionTag": -1864114230,
+                "Size": {
+                  "X": 80.0,
+                  "Y": 20.0
+                },
+                "Name": "txt_item_title",
+                "ctype": "TextObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "source/zhencang/zhencang_huawen.png",
+                  "Plist": ""
+                },
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 159,
+                "Scale9Height": 8,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": -56.01,
+                  "Y": 9.2187
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.1767,
+                  "Y": 0.2305
+                },
+                "PreSize": {
+                  "X": 0.5237,
+                  "Y": 0.5
+                },
+                "LeftMargin": -56.01,
+                "RightMargin": 207.01,
+                "TopMargin": 10.7813,
+                "BottomMargin": 9.2187,
+                "Tag": 226,
+                "ActionTag": 1198816021,
+                "Size": {
+                  "X": 166.0,
+                  "Y": 20.0
+                },
+                "Name": "pnl_left_line",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "source/zhencang/zhencang_huawen.png",
+                  "Plist": ""
+                },
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 159,
+                "Scale9Height": 8,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 371.3094,
+                  "Y": 29.3618
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 180.0,
+                "RotationSkewY": 180.0,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 1.1713,
+                  "Y": 0.734
+                },
+                "PreSize": {
+                  "X": 0.5237,
+                  "Y": 0.5
+                },
+                "LeftMargin": 371.3094,
+                "RightMargin": -220.3094,
+                "TopMargin": -9.3618,
+                "BottomMargin": 29.3618,
+                "Tag": 227,
+                "ActionTag": -1668837181,
+                "Size": {
+                  "X": 166.0,
+                  "Y": 20.0
+                },
+                "Name": "pnl_left_right",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": -1250863201,
+            "Size": {
+              "X": 317.0,
+              "Y": 40.0
+            },
+            "Name": "pnl_item_title",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "IsBounceEnabled": true,
+            "InnerNodeSize": {
+              "Width": 613,
+              "Height": 169
+            },
+            "ScrollDirectionType": "Vertical",
+            "ClipAble": true,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "G": 150,
+              "B": 100
+            },
+            "FirstColor": {
+              "G": 150,
+              "B": 100
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 376.2988,
+              "Y": 723.9962
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5017,
+              "Y": 0.5427
+            },
+            "PreSize": {
+              "X": 0.8173,
+              "Y": 0.1267
+            },
+            "LeftMargin": 69.7988,
+            "RightMargin": 67.2012,
+            "TopMargin": 610.0038,
+            "BottomMargin": 554.9962,
+            "Tag": 191,
+            "ActionTag": 1992089150,
+            "Size": {
+              "X": 613.0,
+              "Y": 169.0
+            },
+            "Name": "sv_item_cnt",
+            "ctype": "ScrollViewObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 230.8937,
+              "Y": 329.3581
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3079,
+              "Y": 0.2469
+            },
+            "PreSize": {
+              "X": 0.4,
+              "Y": 0.1499
+            },
+            "LeftMargin": 230.8937,
+            "RightMargin": 219.1063,
+            "TopMargin": 804.6419,
+            "BottomMargin": 329.3581,
+            "Tag": 454,
+            "Children": [
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "source/common/anniu11.png",
+                  "Plist": ""
+                },
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9OriginX": 93,
+                "Scale9OriginY": 28,
+                "Scale9Width": 98,
+                "Scale9Height": 29,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 11.46,
+                  "Y": 15.5298
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0382,
+                  "Y": 0.0776
+                },
+                "PreSize": {
+                  "X": 0.9267,
+                  "Y": 0.4
+                },
+                "HorizontalEdge": "BothEdge",
+                "VerticalEdge": "BottomEdge",
+                "LeftMargin": 11.46,
+                "RightMargin": 10.54,
+                "TopMargin": 104.4702,
+                "BottomMargin": 15.5298,
+                "Tag": 19,
+                "Children": [
+                  {
+                    "FontSize": 25,
+                    "LabelText": "重来",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 139.556,
+                      "Y": 41.904
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.502,
+                      "Y": 0.5238
+                    },
+                    "PreSize": {
+                      "X": 0.1799,
+                      "Y": 0.3125
+                    },
+                    "HorizontalEdge": "BothEdge",
+                    "VerticalEdge": "BothEdge",
+                    "LeftMargin": 114.556,
+                    "RightMargin": 113.444,
+                    "TopMargin": 25.596,
+                    "BottomMargin": 29.404,
+                    "Tag": 20,
+                    "ActionTag": 1760917549,
+                    "Size": {
+                      "X": 50.0,
+                      "Y": 25.0
+                    },
+                    "Name": "txt_confirm",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -55554027,
+                "Size": {
+                  "X": 278.0,
+                  "Y": 80.0
+                },
+                "VisibleForFrame": false,
+                "Name": "pnl_restart",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "source/common/anniu11.png",
+                  "Plist": ""
+                },
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9OriginX": 93,
+                "Scale9OriginY": 28,
+                "Scale9Width": 98,
+                "Scale9Height": 29,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 150.45,
+                  "Y": 143.6525
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5015,
+                  "Y": 0.7183
+                },
+                "PreSize": {
+                  "X": 0.9267,
+                  "Y": 0.4
+                },
+                "HorizontalEdge": "BothEdge",
+                "VerticalEdge": "BottomEdge",
+                "LeftMargin": 11.45,
+                "RightMargin": 10.55,
+                "TopMargin": 16.3475,
+                "BottomMargin": 103.6525,
+                "Tag": 187,
+                "Children": [
+                  {
+                    "FontSize": 25,
+                    "LabelText": "确认",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 139.556,
+                      "Y": 41.904
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.502,
+                      "Y": 0.5238
+                    },
+                    "PreSize": {
+                      "X": 0.1799,
+                      "Y": 0.3125
+                    },
+                    "HorizontalEdge": "BothEdge",
+                    "VerticalEdge": "BothEdge",
+                    "LeftMargin": 114.556,
+                    "RightMargin": 113.444,
+                    "TopMargin": 25.596,
+                    "BottomMargin": 29.404,
+                    "Tag": 189,
+                    "ActionTag": 1529491614,
+                    "Size": {
+                      "X": 50.0,
+                      "Y": 25.0
+                    },
+                    "Name": "txt_confirm",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -1973579089,
+                "Size": {
+                  "X": 278.0,
+                  "Y": 80.0
+                },
+                "Name": "pnl_close",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": -450182476,
+            "Size": {
+              "X": 300.0,
+              "Y": 200.0
+            },
+            "Name": "pnl_operate",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "source/juesexinxi/juesexian_2_2_0_0.png",
+              "Plist": ""
+            },
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 2,
+            "Scale9Width": 11,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "StretchWidthEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5
+            },
+            "Position": {
+              "X": 375.0001,
+              "Y": 936.7786
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.7022
+            },
+            "PreSize": {
+              "X": 0.56,
+              "Y": 0.0007
+            },
+            "HorizontalEdge": "BothEdge",
+            "VerticalEdge": "TopEdge",
+            "LeftMargin": 165.0001,
+            "RightMargin": 164.9999,
+            "TopMargin": 396.2214,
+            "BottomMargin": 936.7786,
+            "Tag": 455,
+            "ActionTag": -242479128,
+            "Size": {
+              "X": 420.0,
+              "Y": 1.0
+            },
+            "Name": "pnl_spliter_top",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "source/juesexinxi/juesexian_2_2_0_0.png",
+              "Plist": ""
+            },
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 2,
+            "Scale9Width": 11,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "StretchWidthEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5
+            },
+            "Position": {
+              "X": 375.0001,
+              "Y": 764.53
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5731
+            },
+            "PreSize": {
+              "X": 0.56,
+              "Y": 0.0007
+            },
+            "HorizontalEdge": "BothEdge",
+            "VerticalEdge": "TopEdge",
+            "LeftMargin": 165.0001,
+            "RightMargin": 164.9999,
+            "TopMargin": 568.47,
+            "BottomMargin": 764.53,
+            "Tag": 457,
+            "ActionTag": 1012719883,
+            "Size": {
+              "X": 420.0,
+              "Y": 1.0
+            },
+            "Name": "pnl_spliter_down",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 750.0,
+          "Y": 1334.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "source/common/anniu01.png",
+        "source/common/anniu11.png",
+        "source/common/dikuang09_10_10_0_0.png",
+        "source/common/xiaotubiao_tili.png",
+        "source/common/xtb_xingxingshiti.png",
+        "source/game01/game1p01_shengli.png",
+        "source/juesexinxi/juesexian_2_2_0_0.png",
+        "source/zhencang/zhencang_huawen.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

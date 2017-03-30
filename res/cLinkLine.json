@@ -1,0 +1,258 @@
+{
+  "ID": "d5ac2ff6-3af7-405d-ba87-b652bd336ec9",
+  "Version": "2.3.4",
+  "Name": "cLinkLine",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 92,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "source/game11xiaoxiaole/game11_beijing01.jpg",
+              "Plist": ""
+            },
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": 597,
+            "Scale9OriginY": 448,
+            "Scale9Width": 618,
+            "Scale9Height": 462,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 192,
+            "ActionTag": 498518317,
+            "Size": {
+              "X": 750.0,
+              "Y": 1334.0
+            },
+            "Name": "pnl_bg",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "InnerNodeSize": {
+              "Width": 620,
+              "Height": 990
+            },
+            "ScrollDirectionType": "Vertical",
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "G": 150,
+              "B": 100
+            },
+            "FirstColor": {
+              "G": 150,
+              "B": 100
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 66.8073,
+              "Y": 154.8332
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0891,
+              "Y": 0.1161
+            },
+            "PreSize": {
+              "X": 0.8267,
+              "Y": 0.7421
+            },
+            "LeftMargin": 66.8073,
+            "RightMargin": 63.1927,
+            "TopMargin": 189.1667,
+            "BottomMargin": 154.8332,
+            "Tag": 196,
+            "Children": [
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "source/game11xiaoxiaole/game11_di01.png",
+                  "Plist": ""
+                },
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9OriginX": 40,
+                "Scale9OriginY": 40,
+                "Scale9Width": 42,
+                "Scale9Height": 42,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 1.6088,
+                  "Y": 862.9863
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0026,
+                  "Y": 0.8717
+                },
+                "PreSize": {
+                  "X": 0.1984,
+                  "Y": 0.1242
+                },
+                "LeftMargin": 1.6088,
+                "RightMargin": 495.3912,
+                "TopMargin": 4.0137,
+                "BottomMargin": 862.9863,
+                "Tag": 194,
+                "Children": [
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "source/game11xiaoxiaole/game11_shoulian01.png",
+                      "Plist": ""
+                    },
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9OriginX": 40,
+                    "Scale9OriginY": 40,
+                    "Scale9Width": 42,
+                    "Scale9Height": 42,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 2.999,
+                      "Y": 3.9995
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0244,
+                      "Y": 0.0325
+                    },
+                    "PreSize": {
+                      "X": 0.935,
+                      "Y": 0.935
+                    },
+                    "LeftMargin": 2.999,
+                    "RightMargin": 5.001,
+                    "TopMargin": 4.0005,
+                    "BottomMargin": 3.9995,
+                    "Tag": 195,
+                    "ActionTag": 550706633,
+                    "Size": {
+                      "X": 115.0,
+                      "Y": 115.0
+                    },
+                    "Name": "pnl_ico",
+                    "ctype": "PanelObjectData"
+                  }
+                ],
+                "ActionTag": 1228475724,
+                "Size": {
+                  "X": 123.0,
+                  "Y": 123.0
+                },
+                "Name": "pnl_tpl",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": 1945944505,
+            "Size": {
+              "X": 620.0,
+              "Y": 990.0
+            },
+            "Name": "sv_grid",
+            "ctype": "ScrollViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 750.0,
+          "Y": 1334.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "source/game11xiaoxiaole/game11_beijing01.jpg",
+        "source/game11xiaoxiaole/game11_di01.png",
+        "source/game11xiaoxiaole/game11_shoulian01.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

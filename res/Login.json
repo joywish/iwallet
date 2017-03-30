@@ -1,0 +1,2287 @@
+{
+  "ID": "8a7125f2-bc24-4ae2-9d1a-3f0c48998553",
+  "Version": "2.3.4",
+  "Name": "Login",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 171,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "source/denglu/denglu_beijing01.jpg",
+              "Plist": ""
+            },
+            "Scale9Width": 750,
+            "Scale9Height": 1334,
+            "StretchWidthEnable": true,
+            "StretchHeightEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "HorizontalEdge": "BothEdge",
+            "VerticalEdge": "BothEdge",
+            "Tag": 29,
+            "ActionTag": 1261754383,
+            "Size": {
+              "X": 750.0,
+              "Y": 1334.0
+            },
+            "Name": "img_bg",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "StretchWidthEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 121.725,
+              "Y": 46.6747
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1623,
+              "Y": 0.035
+            },
+            "PreSize": {
+              "X": 0.6827,
+              "Y": 0.1432
+            },
+            "HorizontalEdge": "BothEdge",
+            "VerticalEdge": "BottomEdge",
+            "LeftMargin": 121.725,
+            "RightMargin": 116.275,
+            "TopMargin": 1096.3253,
+            "BottomMargin": 46.6747,
+            "Tag": 199,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "source/denglu/weibo_btn.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 93,
+                "Scale9Height": 97,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.4941,
+                  "ScaleY": 0.4913
+                },
+                "Position": {
+                  "X": 81.3011,
+                  "Y": 77.5059
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1588,
+                  "Y": 0.4058
+                },
+                "PreSize": {
+                  "X": 0.1816,
+                  "Y": 0.5079
+                },
+                "HorizontalEdge": "LeftEdge",
+                "VerticalEdge": "BottomEdge",
+                "LeftMargin": 35.3498,
+                "RightMargin": 383.6502,
+                "TopMargin": 64.1502,
+                "BottomMargin": 29.8498,
+                "Tag": 200,
+                "ActionTag": -504523792,
+                "Size": {
+                  "X": 93.0,
+                  "Y": 97.0
+                },
+                "Name": "imgSina",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "source/denglu/qq_btn.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 93,
+                "Scale9Height": 97,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.4816,
+                  "ScaleY": 0.5064
+                },
+                "Position": {
+                  "X": 254.8224,
+                  "Y": 79.6218
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4977,
+                  "Y": 0.4169
+                },
+                "PreSize": {
+                  "X": 0.1816,
+                  "Y": 0.5079
+                },
+                "HorizontalEdge": "BothEdge",
+                "VerticalEdge": "BottomEdge",
+                "LeftMargin": 210.0336,
+                "RightMargin": 208.9664,
+                "TopMargin": 63.499,
+                "BottomMargin": 30.501,
+                "Tag": 201,
+                "ActionTag": -1904232486,
+                "Size": {
+                  "X": 93.0,
+                  "Y": 97.0
+                },
+                "Name": "ImgQQ",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "source/denglu/weichat_btn.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 93,
+                "Scale9Height": 97,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.503,
+                  "ScaleY": 0.5105
+                },
+                "Position": {
+                  "X": 432.5476,
+                  "Y": 79.5088
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8448,
+                  "Y": 0.4163
+                },
+                "PreSize": {
+                  "X": 0.1816,
+                  "Y": 0.5079
+                },
+                "HorizontalEdge": "RightEdge",
+                "VerticalEdge": "BottomEdge",
+                "LeftMargin": 385.7686,
+                "RightMargin": 33.2314,
+                "TopMargin": 64.0097,
+                "BottomMargin": 29.9903,
+                "Tag": 202,
+                "ActionTag": 1007470197,
+                "Size": {
+                  "X": 93.0,
+                  "Y": 97.0
+                },
+                "Name": "ImgWeXin",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 21,
+                "LabelText": "其他登录方式",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 257.9968,
+                  "Y": 157.3153
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5039,
+                  "Y": 0.8236
+                },
+                "PreSize": {
+                  "X": 0.2461,
+                  "Y": 0.1099
+                },
+                "HorizontalEdge": "BothEdge",
+                "VerticalEdge": "TopEdge",
+                "LeftMargin": 194.9968,
+                "RightMargin": 191.0032,
+                "TopMargin": 23.1847,
+                "BottomMargin": 146.8153,
+                "Tag": 203,
+                "ActionTag": -1655175397,
+                "Size": {
+                  "X": 126.0,
+                  "Y": 21.0
+                },
+                "Name": "txtInfo",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -808952895,
+            "Size": {
+              "X": 512.0,
+              "Y": 191.0
+            },
+            "Name": "pnlOther",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.7589,
+              "Y": 420.0619
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.001,
+              "Y": 0.3149
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.3748
+            },
+            "LeftMargin": 0.7589,
+            "RightMargin": -0.7589,
+            "TopMargin": 413.9381,
+            "BottomMargin": 420.0619,
+            "Tag": 88,
+            "Children": [
+              {
+                "FontSize": 25,
+                "IsCustomSize": true,
+                "LabelText": "",
+                "PlaceHolderText": "Text Field",
+                "MaxLengthText": 10,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 366.8572,
+                  "Y": 304.0724
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4891,
+                  "Y": 0.6081
+                },
+                "PreSize": {
+                  "X": 0.5333,
+                  "Y": 0.05
+                },
+                "LeftMargin": 166.8572,
+                "RightMargin": 183.1428,
+                "TopMargin": 183.4276,
+                "BottomMargin": 291.5724,
+                "Tag": 12,
+                "ActionTag": 567856652,
+                "Size": {
+                  "X": 400.0,
+                  "Y": 25.0
+                },
+                "Name": "tf_user",
+                "ctype": "TextFieldObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "用户名",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 166.8587,
+                  "Y": 333.0517
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2225,
+                  "Y": 0.6661
+                },
+                "PreSize": {
+                  "X": 0.08,
+                  "Y": 0.04
+                },
+                "LeftMargin": 166.8587,
+                "RightMargin": 523.1413,
+                "TopMargin": 156.9483,
+                "BottomMargin": 323.0517,
+                "Tag": 13,
+                "ActionTag": -236198882,
+                "Size": {
+                  "X": 60.0,
+                  "Y": 20.0
+                },
+                "Name": "lbl_user",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 25,
+                "IsCustomSize": true,
+                "LabelText": "",
+                "PlaceHolderText": "Text Field",
+                "MaxLengthText": 10,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 366.8572,
+                  "Y": 233.0205
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4891,
+                  "Y": 0.466
+                },
+                "PreSize": {
+                  "X": 0.5333,
+                  "Y": 0.05
+                },
+                "LeftMargin": 166.8572,
+                "RightMargin": 183.1428,
+                "TopMargin": 254.4795,
+                "BottomMargin": 220.5205,
+                "Tag": 14,
+                "ActionTag": 2130010106,
+                "Size": {
+                  "X": 400.0,
+                  "Y": 25.0
+                },
+                "Name": "tf_pass",
+                "ctype": "TextFieldObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "密码",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 166.8587,
+                  "Y": 261.9984
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2225,
+                  "Y": 0.524
+                },
+                "PreSize": {
+                  "X": 0.0533,
+                  "Y": 0.04
+                },
+                "LeftMargin": 166.8587,
+                "RightMargin": 543.1413,
+                "TopMargin": 228.0016,
+                "BottomMargin": 251.9984,
+                "Tag": 15,
+                "ActionTag": 1052225052,
+                "Size": {
+                  "X": 40.0,
+                  "Y": 20.0
+                },
+                "Name": "lbl_pass",
+                "ctype": "TextObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "source/common/anniu03.png",
+                  "Plist": ""
+                },
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Enable": true,
+                "Scale9Width": 339,
+                "Scale9Height": 88,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 336.5839,
+                  "Y": 62.4264
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4488,
+                  "Y": 0.1249
+                },
+                "PreSize": {
+                  "X": 0.1333,
+                  "Y": 0.122
+                },
+                "HorizontalEdge": "LeftEdge",
+                "VerticalEdge": "BottomEdge",
+                "LeftMargin": 286.5839,
+                "RightMargin": 363.4161,
+                "TopMargin": 407.0736,
+                "BottomMargin": 31.9264,
+                "Tag": 74,
+                "Children": [
+                  {
+                    "FontSize": 22,
+                    "LabelText": "登录",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 49.3254,
+                      "Y": 33.602
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4933,
+                      "Y": 0.5509
+                    },
+                    "PreSize": {
+                      "X": 0.44,
+                      "Y": 0.3607
+                    },
+                    "LeftMargin": 27.3254,
+                    "RightMargin": 28.6746,
+                    "TopMargin": 16.398,
+                    "BottomMargin": 22.602,
+                    "Tag": 75,
+                    "ActionTag": -2115198753,
+                    "Size": {
+                      "X": 44.0,
+                      "Y": 22.0
+                    },
+                    "Name": "txt",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 350101305,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 61.0
+                },
+                "Name": "pnl_login",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "source/common/anniu03.png",
+                  "Plist": ""
+                },
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Enable": true,
+                "Scale9Width": 339,
+                "Scale9Height": 88,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 448.2211,
+                  "Y": 62.4264
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5976,
+                  "Y": 0.1249
+                },
+                "PreSize": {
+                  "X": 0.1333,
+                  "Y": 0.122
+                },
+                "HorizontalEdge": "LeftEdge",
+                "VerticalEdge": "BottomEdge",
+                "LeftMargin": 398.2211,
+                "RightMargin": 251.7789,
+                "TopMargin": 407.0736,
+                "BottomMargin": 31.9264,
+                "Tag": 76,
+                "Children": [
+                  {
+                    "FontSize": 22,
+                    "LabelText": "注册",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 49.3254,
+                      "Y": 33.602
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4933,
+                      "Y": 0.5509
+                    },
+                    "PreSize": {
+                      "X": 0.44,
+                      "Y": 0.3607
+                    },
+                    "LeftMargin": 27.3254,
+                    "RightMargin": 28.6746,
+                    "TopMargin": 16.398,
+                    "BottomMargin": 22.602,
+                    "Tag": 77,
+                    "ActionTag": -477837191,
+                    "Size": {
+                      "X": 44.0,
+                      "Y": 22.0
+                    },
+                    "Name": "txt",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -114552463,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 61.0
+                },
+                "Name": "pnl_register",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "source/common/anniu03.png",
+                  "Plist": ""
+                },
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Enable": true,
+                "Scale9Width": 339,
+                "Scale9Height": 88,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 559.8583,
+                  "Y": 62.4264
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7465,
+                  "Y": 0.1249
+                },
+                "PreSize": {
+                  "X": 0.1333,
+                  "Y": 0.122
+                },
+                "HorizontalEdge": "LeftEdge",
+                "VerticalEdge": "BottomEdge",
+                "LeftMargin": 509.8583,
+                "RightMargin": 140.1417,
+                "TopMargin": 407.0736,
+                "BottomMargin": 31.9264,
+                "Tag": 130,
+                "Children": [
+                  {
+                    "FontSize": 22,
+                    "LabelText": "忘密码",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 49.3254,
+                      "Y": 33.602
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4933,
+                      "Y": 0.5509
+                    },
+                    "PreSize": {
+                      "X": 0.66,
+                      "Y": 0.3607
+                    },
+                    "LeftMargin": 16.3254,
+                    "RightMargin": 17.6746,
+                    "TopMargin": 16.398,
+                    "BottomMargin": 22.602,
+                    "Tag": 131,
+                    "ActionTag": -1341537113,
+                    "Size": {
+                      "X": 66.0,
+                      "Y": 22.0
+                    },
+                    "Name": "txt",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 686348070,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 61.0
+                },
+                "Name": "pnl_pass",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": 1366239401,
+            "Size": {
+              "X": 750.0,
+              "Y": 500.0
+            },
+            "Name": "pnlLogin",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 750.7572,
+              "Y": 420.0619
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 1.001,
+              "Y": 0.3149
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.3748
+            },
+            "LeftMargin": 750.7572,
+            "RightMargin": -750.7572,
+            "TopMargin": 413.9381,
+            "BottomMargin": 420.0619,
+            "Tag": 89,
+            "Children": [
+              {
+                "FontSize": 25,
+                "IsCustomSize": true,
+                "LabelText": "",
+                "PlaceHolderText": "Text Field",
+                "MaxLengthText": 10,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 389.9834,
+                  "Y": 405.2803
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.52,
+                  "Y": 0.8106
+                },
+                "PreSize": {
+                  "X": 0.5333,
+                  "Y": 0.05
+                },
+                "LeftMargin": 189.9834,
+                "RightMargin": 160.0166,
+                "TopMargin": 82.2197,
+                "BottomMargin": 392.7803,
+                "Tag": 91,
+                "ActionTag": -114817983,
+                "Size": {
+                  "X": 400.0,
+                  "Y": 25.0
+                },
+                "Name": "tf_user",
+                "ctype": "TextFieldObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "用户名",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 189.9832,
+                  "Y": 429.9421
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2533,
+                  "Y": 0.8599
+                },
+                "PreSize": {
+                  "X": 0.08,
+                  "Y": 0.04
+                },
+                "LeftMargin": 189.9832,
+                "RightMargin": 500.0168,
+                "TopMargin": 60.0579,
+                "BottomMargin": 419.9421,
+                "Tag": 92,
+                "ActionTag": -533481331,
+                "Size": {
+                  "X": 60.0,
+                  "Y": 20.0
+                },
+                "Name": "lbl_user",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 25,
+                "IsCustomSize": true,
+                "LabelText": "",
+                "PlaceHolderText": "Text Field",
+                "MaxLengthText": 10,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 388.5847,
+                  "Y": 198.6439
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5181,
+                  "Y": 0.3973
+                },
+                "PreSize": {
+                  "X": 0.5333,
+                  "Y": 0.05
+                },
+                "LeftMargin": 188.5847,
+                "RightMargin": 161.4153,
+                "TopMargin": 288.8561,
+                "BottomMargin": 186.1439,
+                "Tag": 93,
+                "ActionTag": -355199209,
+                "Size": {
+                  "X": 400.0,
+                  "Y": 25.0
+                },
+                "Name": "tf_pass",
+                "ctype": "TextFieldObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "密码",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 188.5846,
+                  "Y": 221.3057
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2514,
+                  "Y": 0.4426
+                },
+                "PreSize": {
+                  "X": 0.0533,
+                  "Y": 0.04
+                },
+                "LeftMargin": 188.5846,
+                "RightMargin": 521.4154,
+                "TopMargin": 268.6943,
+                "BottomMargin": 211.3057,
+                "Tag": 94,
+                "ActionTag": 157557854,
+                "Size": {
+                  "X": 40.0,
+                  "Y": 20.0
+                },
+                "Name": "lbl_pass",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 25,
+                "IsCustomSize": true,
+                "LabelText": "",
+                "PlaceHolderText": "Text Field",
+                "MaxLengthText": 10,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 388.5847,
+                  "Y": 127.321
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5181,
+                  "Y": 0.2546
+                },
+                "PreSize": {
+                  "X": 0.5333,
+                  "Y": 0.05
+                },
+                "LeftMargin": 188.5847,
+                "RightMargin": 161.4153,
+                "TopMargin": 360.179,
+                "BottomMargin": 114.821,
+                "Tag": 95,
+                "ActionTag": 1819805157,
+                "Size": {
+                  "X": 400.0,
+                  "Y": 25.0
+                },
+                "Name": "tf_repeat_pass",
+                "ctype": "TextFieldObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "重复密码",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 188.5846,
+                  "Y": 154.9822
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2514,
+                  "Y": 0.31
+                },
+                "PreSize": {
+                  "X": 0.1067,
+                  "Y": 0.04
+                },
+                "LeftMargin": 188.5846,
+                "RightMargin": 481.4154,
+                "TopMargin": 335.0178,
+                "BottomMargin": 144.9822,
+                "Tag": 96,
+                "ActionTag": 649480517,
+                "Size": {
+                  "X": 80.0,
+                  "Y": 20.0
+                },
+                "Name": "lbl_repeat_pass",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 25,
+                "IsCustomSize": true,
+                "LabelText": "",
+                "PlaceHolderText": "Text Field",
+                "MaxLengthText": 10,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 388.5847,
+                  "Y": 269.9662
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5181,
+                  "Y": 0.5399
+                },
+                "PreSize": {
+                  "X": 0.5333,
+                  "Y": 0.05
+                },
+                "LeftMargin": 188.5847,
+                "RightMargin": 161.4153,
+                "TopMargin": 217.5338,
+                "BottomMargin": 257.4662,
+                "Tag": 101,
+                "ActionTag": -1777611222,
+                "Size": {
+                  "X": 400.0,
+                  "Y": 25.0
+                },
+                "Name": "tf_id",
+                "ctype": "TextFieldObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "身份证",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 188.5846,
+                  "Y": 295.6287
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2514,
+                  "Y": 0.5913
+                },
+                "PreSize": {
+                  "X": 0.08,
+                  "Y": 0.04
+                },
+                "LeftMargin": 188.5846,
+                "RightMargin": 501.4154,
+                "TopMargin": 194.3713,
+                "BottomMargin": 285.6287,
+                "Tag": 102,
+                "ActionTag": 2040732,
+                "Size": {
+                  "X": 60.0,
+                  "Y": 20.0
+                },
+                "Name": "lbl_id",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 25,
+                "IsCustomSize": true,
+                "LabelText": "",
+                "PlaceHolderText": "Text Field",
+                "MaxLengthText": 10,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 389.0713,
+                  "Y": 334.97
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5188,
+                  "Y": 0.6699
+                },
+                "PreSize": {
+                  "X": 0.5333,
+                  "Y": 0.05
+                },
+                "LeftMargin": 189.0713,
+                "RightMargin": 160.9287,
+                "TopMargin": 152.53,
+                "BottomMargin": 322.47,
+                "Tag": 111,
+                "ActionTag": 1374607641,
+                "Size": {
+                  "X": 400.0,
+                  "Y": 25.0
+                },
+                "Name": "tf_phone",
+                "ctype": "TextFieldObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "电话",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 189.0763,
+                  "Y": 359.6306
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2521,
+                  "Y": 0.7193
+                },
+                "PreSize": {
+                  "X": 0.0533,
+                  "Y": 0.04
+                },
+                "LeftMargin": 189.0763,
+                "RightMargin": 520.9237,
+                "TopMargin": 130.3694,
+                "BottomMargin": 349.6306,
+                "Tag": 112,
+                "ActionTag": -100618701,
+                "Size": {
+                  "X": 40.0,
+                  "Y": 20.0
+                },
+                "Name": "lbl_phone",
+                "ctype": "TextObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "source/common/anniu03.png",
+                  "Plist": ""
+                },
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Enable": true,
+                "Scale9Width": 339,
+                "Scale9Height": 88,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 501.8525,
+                  "Y": 62.4261
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6691,
+                  "Y": 0.1249
+                },
+                "PreSize": {
+                  "X": 0.1333,
+                  "Y": 0.122
+                },
+                "HorizontalEdge": "LeftEdge",
+                "VerticalEdge": "BottomEdge",
+                "LeftMargin": 451.8525,
+                "RightMargin": 198.1475,
+                "TopMargin": 407.0739,
+                "BottomMargin": 31.9261,
+                "Tag": 99,
+                "Children": [
+                  {
+                    "FontSize": 22,
+                    "LabelText": "确认",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 49.3254,
+                      "Y": 33.602
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4933,
+                      "Y": 0.5509
+                    },
+                    "PreSize": {
+                      "X": 0.44,
+                      "Y": 0.3607
+                    },
+                    "LeftMargin": 27.3254,
+                    "RightMargin": 28.6746,
+                    "TopMargin": 16.398,
+                    "BottomMargin": 22.602,
+                    "Tag": 100,
+                    "ActionTag": -726713703,
+                    "Size": {
+                      "X": 44.0,
+                      "Y": 22.0
+                    },
+                    "Name": "txt",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -1561171188,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 61.0
+                },
+                "Name": "pnl_register",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": 1721272862,
+            "ZOrder": 1,
+            "Size": {
+              "X": 750.0,
+              "Y": 500.0
+            },
+            "Name": "pnlRegister",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 1500.756,
+              "Y": 420.0619
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 2.001,
+              "Y": 0.3149
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.3748
+            },
+            "LeftMargin": 1500.756,
+            "RightMargin": -1500.7559,
+            "TopMargin": 413.9381,
+            "BottomMargin": 420.0619,
+            "Tag": 90,
+            "Children": [
+              {
+                "FontSize": 25,
+                "IsCustomSize": true,
+                "LabelText": "",
+                "PlaceHolderText": "Text Field",
+                "MaxLengthText": 10,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 412.4341,
+                  "Y": 231.2534
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5499,
+                  "Y": 0.4625
+                },
+                "PreSize": {
+                  "X": 0.5333,
+                  "Y": 0.05
+                },
+                "LeftMargin": 212.4341,
+                "RightMargin": 137.5659,
+                "TopMargin": 256.2466,
+                "BottomMargin": 218.7534,
+                "Tag": 115,
+                "ActionTag": 1892098529,
+                "Size": {
+                  "X": 400.0,
+                  "Y": 25.0
+                },
+                "Name": "tf_pass",
+                "ctype": "TextFieldObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "密码",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 212.4346,
+                  "Y": 253.9132
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2832,
+                  "Y": 0.5078
+                },
+                "PreSize": {
+                  "X": 0.0533,
+                  "Y": 0.04
+                },
+                "LeftMargin": 212.4346,
+                "RightMargin": 497.5654,
+                "TopMargin": 236.0868,
+                "BottomMargin": 243.9132,
+                "Tag": 116,
+                "ActionTag": -1504501854,
+                "Size": {
+                  "X": 40.0,
+                  "Y": 20.0
+                },
+                "Name": "lbl_pass",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 25,
+                "IsCustomSize": true,
+                "LabelText": "",
+                "PlaceHolderText": "Text Field",
+                "MaxLengthText": 10,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 412.4341,
+                  "Y": 159.9319
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5499,
+                  "Y": 0.3199
+                },
+                "PreSize": {
+                  "X": 0.5333,
+                  "Y": 0.05
+                },
+                "LeftMargin": 212.4341,
+                "RightMargin": 137.5659,
+                "TopMargin": 327.5681,
+                "BottomMargin": 147.4319,
+                "Tag": 117,
+                "ActionTag": 802396218,
+                "Size": {
+                  "X": 400.0,
+                  "Y": 25.0
+                },
+                "Name": "tf_repeat_pass",
+                "ctype": "TextFieldObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "重复密码",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 212.4346,
+                  "Y": 187.5914
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2832,
+                  "Y": 0.3752
+                },
+                "PreSize": {
+                  "X": 0.1067,
+                  "Y": 0.04
+                },
+                "LeftMargin": 212.4346,
+                "RightMargin": 457.5654,
+                "TopMargin": 302.4086,
+                "BottomMargin": 177.5914,
+                "Tag": 118,
+                "ActionTag": 571674431,
+                "Size": {
+                  "X": 80.0,
+                  "Y": 20.0
+                },
+                "Name": "lbl_repeat_pass",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 25,
+                "IsCustomSize": true,
+                "LabelText": "",
+                "PlaceHolderText": "Text Field",
+                "MaxLengthText": 10,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 412.4341,
+                  "Y": 302.5775
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5499,
+                  "Y": 0.6052
+                },
+                "PreSize": {
+                  "X": 0.5333,
+                  "Y": 0.05
+                },
+                "LeftMargin": 212.4341,
+                "RightMargin": 137.5659,
+                "TopMargin": 184.9225,
+                "BottomMargin": 290.0775,
+                "Tag": 119,
+                "ActionTag": -1400410048,
+                "Size": {
+                  "X": 400.0,
+                  "Y": 25.0
+                },
+                "Name": "tf_id",
+                "ctype": "TextFieldObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "<身份证/学生证/驾照>号",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 212.4346,
+                  "Y": 328.236
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2832,
+                  "Y": 0.6565
+                },
+                "PreSize": {
+                  "X": 0.2933,
+                  "Y": 0.04
+                },
+                "LeftMargin": 212.4346,
+                "RightMargin": 317.5654,
+                "TopMargin": 161.764,
+                "BottomMargin": 318.236,
+                "Tag": 120,
+                "ActionTag": -591845881,
+                "Size": {
+                  "X": 220.0,
+                  "Y": 20.0
+                },
+                "Name": "lbl_id",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 25,
+                "IsCustomSize": true,
+                "LabelText": "",
+                "PlaceHolderText": "Text Field",
+                "MaxLengthText": 10,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 412.9253,
+                  "Y": 367.5814
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5506,
+                  "Y": 0.7352
+                },
+                "PreSize": {
+                  "X": 0.5333,
+                  "Y": 0.05
+                },
+                "LeftMargin": 212.9253,
+                "RightMargin": 137.0747,
+                "TopMargin": 119.9186,
+                "BottomMargin": 355.0814,
+                "Tag": 121,
+                "ActionTag": -375075450,
+                "Size": {
+                  "X": 400.0,
+                  "Y": 25.0
+                },
+                "Name": "tf_phone",
+                "ctype": "TextFieldObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "电话",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 212.9272,
+                  "Y": 392.2358
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2839,
+                  "Y": 0.7845
+                },
+                "PreSize": {
+                  "X": 0.0533,
+                  "Y": 0.04
+                },
+                "LeftMargin": 212.9272,
+                "RightMargin": 497.0728,
+                "TopMargin": 97.7642,
+                "BottomMargin": 382.2358,
+                "Tag": 122,
+                "ActionTag": 892209696,
+                "Size": {
+                  "X": 40.0,
+                  "Y": 20.0
+                },
+                "Name": "lbl_phone",
+                "ctype": "TextObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "source/common/anniu03.png",
+                  "Plist": ""
+                },
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Enable": true,
+                "Scale9Width": 339,
+                "Scale9Height": 88,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 511.8433,
+                  "Y": 62.4261
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6825,
+                  "Y": 0.1249
+                },
+                "PreSize": {
+                  "X": 0.1333,
+                  "Y": 0.122
+                },
+                "HorizontalEdge": "LeftEdge",
+                "VerticalEdge": "BottomEdge",
+                "LeftMargin": 461.8433,
+                "RightMargin": 188.1567,
+                "TopMargin": 407.0739,
+                "BottomMargin": 31.9261,
+                "Tag": 123,
+                "Children": [
+                  {
+                    "FontSize": 22,
+                    "LabelText": "确认",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 49.3254,
+                      "Y": 33.602
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4933,
+                      "Y": 0.5509
+                    },
+                    "PreSize": {
+                      "X": 0.44,
+                      "Y": 0.3607
+                    },
+                    "LeftMargin": 27.3254,
+                    "RightMargin": 28.6746,
+                    "TopMargin": 16.398,
+                    "BottomMargin": 22.602,
+                    "Tag": 124,
+                    "ActionTag": -1973497267,
+                    "Size": {
+                      "X": 44.0,
+                      "Y": 22.0
+                    },
+                    "Name": "txt",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 634587936,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 61.0
+                },
+                "Name": "pnl_change",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": 147471842,
+            "ZOrder": 2,
+            "Size": {
+              "X": 750.0,
+              "Y": 500.0
+            },
+            "Name": "pnlChangePass",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 2250.7388,
+              "Y": 420.0619
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 3.001,
+              "Y": 0.3149
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.3748
+            },
+            "LeftMargin": 2250.7388,
+            "RightMargin": -2250.7388,
+            "TopMargin": 413.9381,
+            "BottomMargin": 420.0619,
+            "Tag": 125,
+            "Children": [
+              {
+                "FontSize": 20,
+                "LabelText": "确认码",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 226.2279,
+                  "Y": 287.2173
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3016,
+                  "Y": 0.5744
+                },
+                "PreSize": {
+                  "X": 0.08,
+                  "Y": 0.04
+                },
+                "LeftMargin": 226.2279,
+                "RightMargin": 463.7721,
+                "TopMargin": 202.7827,
+                "BottomMargin": 277.2173,
+                "Tag": 126,
+                "ActionTag": 811988070,
+                "Size": {
+                  "X": 60.0,
+                  "Y": 20.0
+                },
+                "Name": "lbl_confirm",
+                "ctype": "TextObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "source/common/anniu03.png",
+                  "Plist": ""
+                },
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Enable": true,
+                "Scale9Width": 339,
+                "Scale9Height": 88,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 521.8534,
+                  "Y": 62.4261
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6958,
+                  "Y": 0.1249
+                },
+                "PreSize": {
+                  "X": 0.1333,
+                  "Y": 0.122
+                },
+                "HorizontalEdge": "LeftEdge",
+                "VerticalEdge": "BottomEdge",
+                "LeftMargin": 471.8534,
+                "RightMargin": 178.1466,
+                "TopMargin": 407.0739,
+                "BottomMargin": 31.9261,
+                "Tag": 127,
+                "Children": [
+                  {
+                    "FontSize": 22,
+                    "LabelText": "确认",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 49.3254,
+                      "Y": 33.602
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4933,
+                      "Y": 0.5509
+                    },
+                    "PreSize": {
+                      "X": 0.44,
+                      "Y": 0.3607
+                    },
+                    "LeftMargin": 27.3254,
+                    "RightMargin": 28.6746,
+                    "TopMargin": 16.398,
+                    "BottomMargin": 22.602,
+                    "Tag": 128,
+                    "ActionTag": 450144311,
+                    "Size": {
+                      "X": 44.0,
+                      "Y": 22.0
+                    },
+                    "Name": "txt",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -1096815344,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 61.0
+                },
+                "Name": "pnl_confirm",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FontSize": 25,
+                "IsCustomSize": true,
+                "LabelText": "",
+                "PlaceHolderText": "Text Field",
+                "MaxLengthText": 10,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 426.2262,
+                  "Y": 262.5633
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5683,
+                  "Y": 0.5251
+                },
+                "PreSize": {
+                  "X": 0.5333,
+                  "Y": 0.05
+                },
+                "LeftMargin": 226.2262,
+                "RightMargin": 123.7738,
+                "TopMargin": 224.9367,
+                "BottomMargin": 250.0633,
+                "Tag": 129,
+                "ActionTag": -188338445,
+                "Size": {
+                  "X": 400.0,
+                  "Y": 25.0
+                },
+                "Name": "tf_confirm",
+                "ctype": "TextFieldObjectData"
+              }
+            ],
+            "ActionTag": -932581953,
+            "ZOrder": 3,
+            "Size": {
+              "X": 750.0,
+              "Y": 500.0
+            },
+            "Name": "pnl_confirm",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 750.0,
+          "Y": 1334.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "source/common/anniu03.png",
+        "source/denglu/denglu_beijing01.jpg",
+        "source/denglu/qq_btn.png",
+        "source/denglu/weibo_btn.png",
+        "source/denglu/weichat_btn.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

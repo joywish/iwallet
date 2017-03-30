@@ -1,0 +1,373 @@
+{
+  "ID": "ad1c0e4d-32ee-477f-a63f-db44d0fa865a",
+  "Version": "2.3.4",
+  "Name": "GameStartLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 442,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 127,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 375.0,
+              "Y": 667.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.5333,
+              "Y": 0.5247
+            },
+            "HorizontalEdge": "BothEdge",
+            "VerticalEdge": "BothEdge",
+            "LeftMargin": 175.0,
+            "RightMargin": 175.0,
+            "TopMargin": 317.0,
+            "BottomMargin": 317.0,
+            "Tag": 447,
+            "Children": [
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "source/common/xiankuang01_8_8_8_8.png",
+                  "Plist": ""
+                },
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 8,
+                "Scale9OriginY": 8,
+                "Scale9Width": 6,
+                "Scale9Height": 6,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 200.0,
+                  "Y": 450.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.6429
+                },
+                "PreSize": {
+                  "X": 0.8475,
+                  "Y": 0.1257
+                },
+                "LeftMargin": 30.5,
+                "RightMargin": 30.5,
+                "TopMargin": 206.0,
+                "BottomMargin": 406.0,
+                "Tag": 450,
+                "Children": [
+                  {
+                    "FontSize": 22,
+                    "LabelText": "寻找珠链",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "fonts/lanting_bold.TTF",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "R": 72,
+                      "G": 72,
+                      "B": 72
+                    },
+                    "OutlineEnabled": true,
+                    "ShadowColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowOffsetX": 2.5,
+                    "ShadowOffsetY": -2.5,
+                    "ShadowEnabled": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 170.0,
+                      "Y": 44.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5015,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.2714,
+                      "Y": 0.3068
+                    },
+                    "LeftMargin": 124.0,
+                    "RightMargin": 123.0,
+                    "TopMargin": 30.5,
+                    "BottomMargin": 30.5,
+                    "Tag": 451,
+                    "ActionTag": -448683776,
+                    "Size": {
+                      "X": 92.0,
+                      "Y": 27.0
+                    },
+                    "Name": "Text",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -1776515831,
+                "Size": {
+                  "X": 339.0,
+                  "Y": 88.0
+                },
+                "Name": "pnl_name",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FontSize": 16,
+                "LabelText": "在限定的时间里将散落的珠链全部找回。\n\t按照需求的顺序拾取，\n\t找错会被罚扣时间。",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 200.0,
+                  "Y": 346.8179
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 200,
+                  "G": 200,
+                  "B": 200
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4955
+                },
+                "PreSize": {
+                  "X": 0.705,
+                  "Y": 0.0771
+                },
+                "LeftMargin": 59.0,
+                "RightMargin": 59.0,
+                "TopMargin": 326.1821,
+                "BottomMargin": 319.8179,
+                "Tag": 461,
+                "ActionTag": 2122590605,
+                "Size": {
+                  "X": 282.0,
+                  "Y": 54.0
+                },
+                "Name": "Text_info",
+                "ctype": "TextObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 51,
+                "ComboBoxIndex": 1,
+                "SingleColor": {},
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 20.0,
+                  "Y": 296.614
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.05,
+                  "Y": 0.4237
+                },
+                "PreSize": {
+                  "X": 0.9,
+                  "Y": 0.0029
+                },
+                "LeftMargin": 20.0,
+                "RightMargin": 20.0,
+                "TopMargin": 401.386,
+                "BottomMargin": 296.614,
+                "Tag": 462,
+                "ActionTag": -470668590,
+                "Size": {
+                  "X": 360.0,
+                  "Y": 2.0
+                },
+                "Name": "line",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FontSize": 18,
+                "LabelText": "点击任意位置开始游戏",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "fonts/lanting.TTF",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 200.0,
+                  "Y": 237.7337
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.3396
+                },
+                "PreSize": {
+                  "X": 0.4575,
+                  "Y": 0.03
+                },
+                "LeftMargin": 108.5,
+                "RightMargin": 108.5,
+                "TopMargin": 451.7663,
+                "BottomMargin": 227.2337,
+                "Tag": 463,
+                "ActionTag": -113806526,
+                "Size": {
+                  "X": 183.0,
+                  "Y": 21.0
+                },
+                "Name": "text_tips",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1688276102,
+            "Size": {
+              "X": 400.0,
+              "Y": 700.0
+            },
+            "Name": "unlockroot",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 750.0,
+          "Y": 1334.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "fonts/lanting.TTF",
+        "fonts/lanting_bold.TTF",
+        "source/common/xiankuang01_8_8_8_8.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}
