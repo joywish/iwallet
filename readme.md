@@ -4,3 +4,4 @@ always pull from opensource project, now push some to it.  hope this can help so
 ＜br/＞ e-mail to:45030013@qq.com
 ＜br/＞ demo:http://www.5icoin.com/icoin/webjs
 ＜br/＞ had some bug need to fix for the page split algrithm
+
