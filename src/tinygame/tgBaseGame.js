@@ -378,7 +378,8 @@ var BaseGame = cc.Layer.extend({
   {
     this.oper_close=true;
     this.isclose=true;
-    this.doExit(null);
+    UIModule.closeLayer(this);
+    //this.doExit(null);
   },
   successEnd:function(sender)
   {
