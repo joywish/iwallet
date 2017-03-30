@@ -142,8 +142,8 @@ var VideoListLayer=SVBase.extend({
     var data=this.dataLists[dataindex];
     //var sdata=this.dataSections[secindex];
     data.ddata.offset=cc.p(item.getContentSize().width/2,item.getContentSize().height/2);
-    var pnl_ico=ccui.helper.seekWidgetByName(item,"sv_tpl_bg");
-    this.adapterImage(pnl_ico,data.data[2]);
+    var pnl_ico=ccui.helper.seekWidgetByName(item,"pnl_ico");
+    this.adapterImage(pnl_ico,"res/coin/1yuan.png");
     var txt_title=ccui.helper.seekWidgetByName(item,"txt_title");
     txt_title.setString(data.data[1]+":"+dataindex);
     //TODO:calc item position

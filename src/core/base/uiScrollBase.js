@@ -1923,21 +1923,32 @@ var SVBase = cc.Layer.extend({
   },
   adapterImage:function(pnl_ico,imgfile)
   {
-    if(pnl_ico!=null&&jsb.fileUtils.isFileExist(imgfile))//scale icon to adapter
+    if(cc.sys.isNative)
     {
-      var image=new ccui.ImageView(imgfile);
-      var isize=pnl_ico.getContentSize();
-      var size=image.getContentSize();
-      var scalex=isize.width/size.width;
-      var scaley=isize.height/size.height;
-      var scale=scalex;
-      if(scalex>scaley)
+      if(pnl_ico!=null&&jsb.fileUtils.isFileExist(imgfile))//scale icon to adapter
       {
-        scale=scaley;
+        var image=new ccui.ImageView(imgfile);
+        var isize=pnl_ico.getContentSize();
+        var size=image.getContentSize();
+        var scalex=isize.width/size.width;
+        var scaley=isize.height/size.height;
+        var scale=scalex;
+        if(scalex>scaley)
+        {
+          scale=scaley;
+        }
+        pnl_ico.setBackGroundImage(imgfile);
+        pnl_ico.setScale(scale-0.1);
+        pnl_ico.setPosition(57,59);
       }
-      pnl_ico.setBackGroundImage(imgfile);
-      pnl_ico.setScale(scale-0.1);
-      pnl_ico.setPosition(57,59);
+    }
+    else
+    {
+      if(pnl_ico!=null)//scale icon to adapter
+      {
+        pnl_ico.setBackGroundImage(imgfile);
+        //pnl_ico.setPosition(57,59);
+      }
     }
   },
   onItemTouch:function(sender,type)
