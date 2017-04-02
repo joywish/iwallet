@@ -11,3 +11,7 @@ always pull from opensource project, now push some to it.  hope this can help so
 <br> the child1:modules/uiVideoList.js
 <br> the child2:modules/mall/uiCoinMall.js
 <br> the problem is , from page of uiVideoList.js call uiCoinMall.js, then the uiScrollBase 's pages had modify from uiCoinMall, i want inherit func like C++ or C#, thanks.
+<br>
+<br> copyright:
+<br> pictures: some ui pictures come from my old company, bshine(陛沙门) and some from netdragon(网龙), any copyright issue , mail to me or qq to me.
+<br> sourcecode: for any purpose use. contain commerical and non commerical use.
