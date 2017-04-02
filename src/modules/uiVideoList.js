@@ -50,12 +50,14 @@ var VideoListLayer=SVBase.extend({
       var len=window.location.href.lastIndexOf("/");
       var str=window.location.href.substr(0,len+1);
       c.innerHTML="<a href="+window.location.pathname+">"+str+"</a>";
+      var c_git=document.getElementById("sp_git");
+      c_git.innerHTML="<a href=https://github.com/joywish/iwallet>"+"OpenSource code:https://github.com/joywish/iwallet"+"</a>";
     }
 
     var sdispdata = {"rownum":0,"colnum":0,"width":0,"height":0,"offset":cc.p(0,0),"pos":cc.p(0,0),"dispi":0,"Flags":[]};
     this.dataSections.push({"name":"游戏或功能列表","datanum":20,"ddindex":0,"ddata":sdispdata});
 
-    for(var i=0;i<2;i++)
+    for(var i=0;i<20;i++)
     {
       var did = this.dataLists.length;
       var dispdata = {"dispi":did,"pindex":-1,"width":0,"height":0,"offset":cc.p(0,0),"pos":cc.p(0,0),"tpl_type":0,"placei":did,"flagis":[]};
@@ -71,7 +73,7 @@ var VideoListLayer=SVBase.extend({
       }
       else
       {
-        var data = {"secindex":0,"dataindex":i,"ddata":dispdata,"data":[1,"","","color",5,1]};
+        var data = {"secindex":0,"dataindex":i,"ddata":dispdata,"data":[1,"连连看","","color",5,1]};
         this.dataLists.push(data);
       }
     }
@@ -167,7 +169,7 @@ var VideoListLayer=SVBase.extend({
       var CoinMall=new uiCoinMall();
       UIModule.showSimpleBg(CoinMall,"coinmall",false);
     }
-    else if(dataindex==1)
+    else// if(dataindex==1)
     {
       var xiaoxiaole=new oXiaoXiaoLe();
       xiaoxiaole.define={"ID":2,"LevelName":"Level1","SceneName":"oXiaoXiaoLe","Level":1,"LevelData":"","Type":"js","Gamebg":"","Title":"连连看","Message":"选择相同的图标消除"};
