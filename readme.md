@@ -14,4 +14,4 @@ always pull from opensource project, now push some to it.  hope this can help so
 <br> 3、the link-link game had some mistake game logic, which can't find any node can link toghter, should find a way to avoid it.
 <br> copyright:
 <br> pictures: some ui pictures come from my old company, bshine(陛沙门) and some from netdragon(网龙), any copyright issue , mail to me or qq to me.
-<br> sourcecode: for any purpose use. contain commerical and non commerical use.
+<br> sourcecode: for any purpose use. contain commerical and non commerical use. when you use ,if posible please link to my coingame:http://www.5icoin.com/icoin/, thanks.
