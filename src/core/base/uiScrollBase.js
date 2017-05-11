@@ -24,7 +24,32 @@ var SVBase = cc.Layer.extend({
   pages:[],
   currPages:{index:0,start:0,dcount:0,end:0,dir:"down"},
   loadType:"drag",//"clip"
-
+  resetVars:function()
+  {
+    this.dataSections=[];
+    this.dataLists=[];
+    this.coin_names=[];
+    this.templates=[];
+    this.pageindex=2;
+    this.pages=[];
+    this.dataStart=0;
+    this.maxDataCount=2000;
+    this.maxDispPage=10;
+    this.sectionDataStart=0;
+    this.selDispDataIndex=0;
+    this.selDispIndex=0;
+    this.defHeight=0;
+    this.inrHeight=0
+    this.inrPosition=cc.p(0,0);
+    this.dispSecs=[];
+    this.dispDataStart=0;
+    this.dispDataEnd=0;
+    this.dispDataIndex=0;
+    this.dispRowCount=0;
+    this.pages=[];
+    this.currPages={index:0,start:0,dcount:0,end:0,dir:"down"};
+    this.loadType="drag";//"clip"
+  },
   hideTemplates:function()
   {
     this.templates=[];
@@ -458,6 +483,7 @@ var SVBase = cc.Layer.extend({
     {
       cc.eventManager.removeListener(this.listener);
     }
+    this.resetVars();
   },
   onEnter: function() {
 
